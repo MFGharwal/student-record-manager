@@ -9,18 +9,10 @@ This project demonstrates object-oriented programming, multi-file structure, vec
 - Search for a student by ID
 
 ## How to Compile & Run
-
-
-
 ```
 g++ main.cpp student.cpp -o student_manager
 ./student_manager
 ```
-
-
-
----
-
 
 ## Technologies
 - C++
@@ -29,8 +21,3 @@ g++ main.cpp student.cpp -o student_manager
 
 ## Notes
 This project was built to practice C++ fundamentals such as multi-file project structure, classes, and user input handling.
-
-
-
-
-
