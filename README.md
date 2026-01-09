@@ -31,11 +31,8 @@ This project demonstrates object-oriented programming, multi-file C++ structure,
 
 
 ```
-
-g++ main.cpp student.cpp -o student\_manager
-
-./student\_manager
-
+g++ main.cpp student.cpp -o student_manager
+./student_manager
 ```
 
 
@@ -61,6 +58,7 @@ g++ main.cpp student.cpp -o student\_manager
 \## Notes
 
 This project was built to practice C++ fundamentals such as OOP, header/source file separation, vectors, input handling, and menu-driven CLI design.
+
 
 
 
